@@ -1,0 +1,8 @@
+{
+  "name": "websocket-stock-ticker",
+  "version": "0.0.1",
+  "description": "WebSocket Socket Ticker",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
+}
